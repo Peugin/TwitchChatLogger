@@ -1,0 +1,16 @@
+{
+  "name": "twitchchatlogger",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Peugin",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "tmi.js": "^1.8.5"
+  }
+}
